@@ -1,0 +1,21 @@
+# Ignore data
+data/*
+!data/fixtures/
+!data/raw/history/
+
+# Ignore processed datasets (too large)
+data/processed/*
+
+# Ignore logs
+logs/*
+
+# Ignore models (large)
+models/*.pkl
+models/*.json
+
+# Ignore environment
+.env
+
+# Ignore python cache
+__pycache__/
+*.pyc

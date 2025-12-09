@@ -1,0 +1,67 @@
+🔥 Raccourcis VS Code essentiels (non basiques)
+
+Navigation & fichiers
+
+
+Ctrl + P → ouvrir un fichier rapidement
+
+Ctrl + Shift + O → aller à une fonction/classe
+
+Ctrl + T → recherche de symboles
+
+
+
+Multi-cursor & sélection
+
+
+Ctrl + D → sélectionner la prochaine occurrence
+
+Ctrl + Shift + L → sélectionner toutes les occurrences
+
+Ctrl + Alt + ↑ / ↓ → curseurs multiples en ligne
+
+
+
+Édition rapide
+
+
+Alt + ↑ / ↓ → déplacer une ligne
+
+Ctrl + Shift + K → supprimer une ligne
+
+Ctrl + / → commenter/décommenter
+
+
+
+Refactoring
+
+
+F2 → renommer partout
+
+Ctrl + . → Quick Fix
+
+F12 → aller à la définition
+
+Alt + F12 → aperçu définition
+
+
+
+Structure du code
+
+
+Ctrl + Shift + [ / ] → plier/déplier bloc
+
+Ctrl + Shift + \ → sauter entre parenthèses/brackets
+
+Ctrl + K puis Ctrl + 0 / J → tout plier / déplier
+
+
+
+Terminal & panneaux
+
+
+Ctrl + ` → terminal intégré
+
+`Ctrl + Shift + `` → nouveau terminal
+
+Ctrl + Shift + E → explorateur
